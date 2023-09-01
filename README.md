@@ -11,6 +11,10 @@
 
 - 👯 I’m looking to collaborate on **Python, SQL and AI Projects**
 
+- 👨‍💻 All of my projects are available at [https://ryancullen7.wixsite.com/ryancullen/s-projects-side-by-side](https://ryancullen7.wixsite.com/ryancullen/s-projects-side-by-side)
+
+- 📝 I regularly write articles on [https://ryancullen7.wixsite.com/ryancullen/blog](https://ryancullen7.wixsite.com/ryancullen/blog)
+
 - 📫 How to reach me **ryancullen7@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/Ryan/Desktop/Professional/Resumes/RyanPCullenResume.pdf](file:///C:/Users/Ryan/Desktop/Professional/Resumes/RyanPCullenResume.pdf)
