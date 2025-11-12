@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryancullen-17&label=Profile%20views&color=0e75b6&style=flat" alt="ryancullen-17" /> </p>
 
-- 🔭 I’m currently working on **Algorithmic Trading & Data Visualization**
+- 🔭 I’m currently working on **Algorithmic Trading & Data Visualization Projects**
 
 - 🌱 I’m currently learning **ML/AI & AWS**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [file:///C:/Users/Ryan/Desktop/Professional/Resumes/RyanPCullenResume.pdf](file:///C:/Users/Ryan/Desktop/Professional/Resumes/RyanPCullenResume.pdf)
 
-- ⚡ Fun fact **I enjoy the outdoors**
+- ⚡ Fun fact **I enjoy fly fishing, camping, and brewing my own beer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
